@@ -11,9 +11,9 @@
             // |     A     |     B     |     C     |
             // |     D     |     E     |     F     |
             bindings = <
-                &kp V &kp R &kp D &kp B &kp Q   &kp A &kp A &kp A &kp A &kp A
-          &kp A &kp S &kp N &kp T &kp H &kp K    &kp G &kp C &kp A &kp E &kp I &kp A
-                &kp Z &kp X &kp M &kp L &kp J    &kp W &kp F &kp A &kp A &kp A
+                &kp Q &kp W &kp E &kp R &kp T    &kp Y &kp U &kp I &kp O &kp P
+          &kp A &kp A &kp S &kp D &kp F &kp G    &kp H &kp J &kp K &kp L &kp A &kp A
+                &kp Z &kp X &kp C &kp V &kp B    &kp N &kp M &kp A &kp A &kp A
             &kp A &kp A &kp A              &kp A &kp A &kp A        
             >;
         };
