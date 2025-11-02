@@ -11,10 +11,10 @@
             // |     A     |     B     |     C     |
             // |     D     |     E     |     F     |
             bindings = <
-                &kp A &kp A &kp A &kp A &kp A    &kp A &kp A &kp A &kp A &kp A
-          &kp A &kp A &kp A &kp A &kp A &kp A    &kp A &kp A &kp A &kp A &kp A &kp A
-                &kp A &kp A &kp A &kp A &kp A    &kp A &kp A &kp A &kp A &kp A
-                            &kp A &kp A &kp A    &kp A &kp A &kp A        
+                &kp V &kp R &kp D &kp B &kp Q   &kp A &kp A &kp A &kp A &kp A
+          &kp A &kp S &kp N &kp T &kp H &kp K    &kp G &kp C &kp A &kp E &kp I &kp A
+                &kp Z &kp X &kp M &kp L &kp J    &kp W &kp F &kp A &kp A &kp .
+            &kp LCTRL &underspace A &lt 4 TAB    &lt 3 RET &lt 2 BACKSPACE &sk RIGHT_SHIFT        
             >;
         };
     };
