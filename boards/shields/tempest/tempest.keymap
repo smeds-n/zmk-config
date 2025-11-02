@@ -12,9 +12,9 @@
             // |     D     |     E     |     F     |
             bindings = <
                 &kp Q &kp W &kp E &kp R &kp T    &kp Y &kp U &kp I &kp O &kp P
-          &kp A &kp A &kp S &kp D &kp F &kp G    &kp H &kp J &kp K &kp L &kp A &kp A
+          &kp A &kp A &kp S &kp D &kp F &kp G    &kp H &kp J &kp K &kp L &kp A &kp ESC
                 &kp Z &kp X &kp C &kp V &kp B    &kp N &kp M &kp A &kp A &kp A
-            &kp A &kp A &kp A              &kp A &kp A &kp A        
+        &kp LEFT_CONTROL &kp SPACE &kp TAB              &kp RET &kp BACKSPACE &kp LEFT_SHIFT
             >;
         };
     };
