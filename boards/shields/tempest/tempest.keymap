@@ -11,7 +11,7 @@
             // |     A     |     B     |     C     |
             // |     D     |     E     |     F     |
             bindings = <
-                &kp V &kp R &kp D &kp B &kp Q    &kp , &kp P &kp O &kp U &kp Y
+                &kp V &kp R &kp D &kp B &kp Q    &kp COMMA &kp P &kp O &kp U &kp Y
           &kp A &kp S &kp N &kp T &kp H &kp K    &kp G &kp C &kp A &kp E &kp I &kp ESC
                 &kp Z &kp X &kp M &kp L &kp J    &kp N &kp F &kp SEMI &kp APOS &kp DOT
         &kp LEFT_CONTROL &kp SPACE &kp TAB              &kp RET &kp BACKSPACE &kp LEFT_SHIFT
